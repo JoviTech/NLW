@@ -19,6 +19,8 @@ body{
 nav{
   padding: 64px;
   grid-area: timeline;
+
+  overflow-y: scroll;
 }
 
 .memory{
